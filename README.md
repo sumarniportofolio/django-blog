@@ -1,4 +1,4 @@
-# Rest Api Diabetes
+# Blog
 ## Clone data dari repository github
     $ git clone git@github.com:sumarniportofolio/django-blog.git
     $ cd django-blog/blog
